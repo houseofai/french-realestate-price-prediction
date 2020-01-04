@@ -8,3 +8,5 @@ L'étude porte sur les valeurs foncières Française en 2018. L'idée est de pr�
 - Utilisation de la cross-validation
 - Utilisation de la méthode Lasso pour la sélection d'attributs
 -> Manque de CPU/GPU pour l'amélioration des scores des modèles.
+
+# Utilisation du notebook sur Google Colab: https://drive.google.com/file/d/1NLTMGe28Jqwv4WU9-0iXqO1G1GsZKcu-/view?usp=sharing
