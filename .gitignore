@@ -1,8 +1,7 @@
 .DS_Store
 .ipynb_checkpoints
-valeursfoncieres-*
-google_api_key.txt
 data
-ec2
-Insee Scrapper.ipynb
+keys
+models
 .gitignore
+Insee Scrapper.ipynb
