@@ -1,0 +1,1 @@
+curl http://localhost:5000/?zipcode=31100&city='TOULOUSE'&codedep=31&type='Appartement'&surface=72&rooms=4&field=0&y=2017&m=2
